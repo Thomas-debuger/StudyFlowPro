@@ -1,4 +1,4 @@
-# StudyFlow Pro Research Edition
+# StudyFlow Pro
 
 > 一套以 **C#、.NET 8 與 Windows Forms** 開發的離線個人智慧學習管理系統，整合帳號管理、任務規劃、專注計時、課表、考古題、智慧排程、學習分析、研究管理與資料安全功能。
 
