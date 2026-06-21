@@ -144,7 +144,7 @@ StudyFlowPro.exe
 
 ### 登出帳號
 
-<img width="522" height="257" alt="image" src="https://github.com/user-attachments/assets/22524939-71e5-461b-925a-1178b5ca02d1" />
+<img width="515" height="256" alt="image" src="https://github.com/user-attachments/assets/6d5bea60-c2e0-4f55-9249-31ae92d18ea3" />
 
 ---
 
