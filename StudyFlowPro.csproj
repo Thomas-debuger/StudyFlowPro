@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>StudyFlowPro</AssemblyName>
+    <RootNamespace>StudyFlowPro</RootNamespace>
+    <Version>7.9.0</Version>
+    <Authors>StudyFlow Pro Team</Authors>
+    <Description>Explainable offline learning analytics with strict per-account data ownership, bidirectional CSV import/export for tasks and focus sessions, explicit timetable CSV export naming, visible course color identification, reordered navigation, a 14-item help guide, independent per-user visual preferences, local login, timetable, exam vault, and professor email assistant.</Description>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.4022.49" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DemoAssets\**\*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+</Project>
