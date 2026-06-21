@@ -90,33 +90,61 @@ StudyFlowPro.exe
 
 ## 系統截圖
 
-> 本 README 使用相對路徑顯示圖片。請將截圖放入 `Docs/Screenshots/`，並使用下列檔名。
-
 ### 主控台
 
-<p align="center">
-  <img src="Docs/Screenshots/01-dashboard.png" width="95%" alt="StudyFlow Pro 主控台">
-</p>
+<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/1bbce95a-fe7d-4c79-9f82-f3c16c32dfff" />
 
-主控台會顯示未完成任務、逾期任務、任務完成率、今日專注、SMART PRIORITY 智慧建議、今日作戰計畫與下一步任務。
+### 課程/專案
 
-### 學習分析中心
+<img width="1918" height="1137" alt="image" src="https://github.com/user-attachments/assets/2ae36fd1-3884-4823-8b53-90cb82101284" />
 
-<p align="center">
-  <img src="Docs/Screenshots/02-analytics-center.png" width="80%" alt="StudyFlow Pro 學習分析中心">
-</p>
+### 任務管理
+
+<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/83ef26a8-57d0-41e5-8ff9-7a3b827d9272" />
+
+### 專注計時
+
+<img width="1918" height="1141" alt="image" src="https://github.com/user-attachments/assets/59c3b145-6ada-4849-823f-dd6299630f15" />
+
+### 課表
+
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/7b18ba78-b16d-44ad-8143-21fe841e17ba" />
+
+### 考古題庫
+
+<img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/a725e9fa-60ba-4999-960d-7e2f0a03f7b3" />
+
+### 寄信詢問教授
+
+<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/64e80e68-2bcf-4c6d-9342-f25c5f80d55a" />
+
+### 視覺風格
+
+<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/15eab0f3-b59a-453c-98f8-e02f07697f15" />
+
+### 智慧排程
+
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/bc4cd988-adb4-46bd-a467-b04a46587b50" />
+
+### 分析中心
+
+<img width="1918" height="1137" alt="image" src="https://github.com/user-attachments/assets/2d2aef14-f2bb-45f0-bdd4-6cf55e0e6f38" />
 
 ### Research Center
 
-<p align="center">
-  <img src="Docs/Screenshots/03-research-center.png" width="80%" alt="StudyFlow Pro Research Center">
-</p>
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/093fdcc1-54b4-41e7-9899-9d91c31c42f8" />
 
-### 設定與資料管理
+### 設定與備份
 
-<p align="center">
-  <img src="Docs/Screenshots/04-settings-data.png" width="70%" alt="StudyFlow Pro 設定與資料管理">
-</p>
+<img width="1918" height="1137" alt="image" src="https://github.com/user-attachments/assets/ebdf7b20-bcc2-47a7-abc2-256dd52d6bb4" />
+
+### 使用說明
+
+<img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/e728642a-be91-442c-9407-e4845a2ec401" />
+
+### 登出帳號
+
+<img width="522" height="257" alt="image" src="https://github.com/user-attachments/assets/22524939-71e5-461b-925a-1178b5ca02d1" />
 
 ---
 
